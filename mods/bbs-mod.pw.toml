@@ -1,0 +1,13 @@
+name = "BBS mod"
+filename = "bbs-1.4.4-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HNsMvuaQ/versions/xMsL4WQY/bbs-1.4.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "cada0917b5c14e9dffbdab77a230de966c2a04ac4d933664b9c935b803aa6d010f55b79f0ecbbe9bddd2db4fcbf275ef2fc3cecd6569748587b2424d15b8af2e"
+
+[update]
+[update.modrinth]
+mod-id = "HNsMvuaQ"
+version = "xMsL4WQY"

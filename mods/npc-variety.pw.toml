@@ -1,0 +1,13 @@
+name = "NPC Variety"
+filename = "npc-variety-1.20.4-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GYQZng8F/versions/48fYulww/npc-variety-1.20.4-2.3.0.jar"
+hash-format = "sha512"
+hash = "f9d0d62ca4c933e5b53d94ee7c4a30e304bd76e5d078d21903681add5ba3715e649a8a18b17680413a00f3e22bc4ac19fc191ba975b49b72cc29099f3804aaaa"
+
+[update]
+[update.modrinth]
+mod-id = "GYQZng8F"
+version = "48fYulww"

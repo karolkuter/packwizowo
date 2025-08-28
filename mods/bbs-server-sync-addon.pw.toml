@@ -1,0 +1,13 @@
+name = "BBS Server Sync Addon"
+filename = "bbs_extended_sync-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yWwOsHyX/versions/IvbeVBCJ/bbs_extended_sync-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "d505ffba719d3b9577a33c8c065ac562cfc89c26281a97b333045ff0c899a740bd8e49bacabdd2ea3d9c2036ddff0c5ac22215f7661b0ee5f3701f7d2dc577e4"
+
+[update]
+[update.modrinth]
+mod-id = "yWwOsHyX"
+version = "IvbeVBCJ"
