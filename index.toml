@@ -171,6 +171,11 @@ hash = "22e8d23931e014fafd6d6e050f0211490fc240ef64ee5dbbb3e0700964418c3f"
 metafile = true
 
 [[files]]
+file = "mods/locks-unofficial.pw.toml"
+hash = "64565422e0821570157be4ec4de0e59cf5c68802da1752de308eff289220bf49"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true

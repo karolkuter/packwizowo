@@ -1,0 +1,13 @@
+name = "Locks-Unofficial"
+filename = "locks-fabric-1.20.1-1.0.3hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a42799158d95061bd3a824c15052e18463c6cc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907313
+project-id = 1128357
